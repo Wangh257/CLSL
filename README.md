@@ -1,9 +1,9 @@
 # CLSL:Contrastive Learning for Structured Light
 
 
-# HDRSL Net for Accurate High Dynamic Range Imaging-based Structure Light 3D Reconstruction
 
-##  Overview of HDRSL
+
+##  Overview of CLSL
 
 <div style="text-align: justify; text-indent: 2em;">
 CLSL(Few-Shot High-Precision Structured Light 3D
