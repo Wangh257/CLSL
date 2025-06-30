@@ -6,7 +6,8 @@
 ##  Overview of HDRSL
 
 <div style="text-align: justify; text-indent: 2em;">
-HDRSL(High Dynamic Range Imaging-based Structure Light)
+CLSL(Few-Shot High-Precision Structured Light 3D
+Reconstruction Enhanced by Contrastive Learning)
 </div>
 
 
